@@ -1,0 +1,13 @@
+# Ignorar .venv
+.venv/
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações do IDE
+.vscode/
+.idea/
+
+
